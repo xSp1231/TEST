@@ -1,4 +1,4 @@
-数组数组多复习
+树状数组多复习
 
 链接：   https://blog.csdn.net/TheWayForDream/article/details/118436732?ops_request_misc
 
